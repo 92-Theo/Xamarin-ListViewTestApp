@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZFJhxWXFdmSBz/RenpgKR3+SvreUOzDCZEiclqN20LAjhgmJlhTpk1OxGtfa/blWvxDjxw51ABEjLyv/DVbBw==",
+  "success": true,
+  "projectFilePath": "D:\\workplace\\ListViewTestApp\\ListViewTestApp\\ListViewTestApp.iOS\\ListViewTestApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

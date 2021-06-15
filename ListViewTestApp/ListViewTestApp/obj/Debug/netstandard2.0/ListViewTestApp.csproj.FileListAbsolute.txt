@@ -1,0 +1,14 @@
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\bin\Debug\netstandard2.0\ListViewTestApp.deps.json
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\bin\Debug\netstandard2.0\ListViewTestApp.dll
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\bin\Debug\netstandard2.0\ref\ListViewTestApp.dll
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\bin\Debug\netstandard2.0\ListViewTestApp.pdb
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\ListViewTestApp.csprojAssemblyReference.cache
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\ListViewTestApp.AssemblyInfoInputs.cache
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\ListViewTestApp.AssemblyInfo.cs
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\ListViewTestApp.csproj.CoreCompileInputs.cache
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\ListViewTestApp.dll
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\ref\ListViewTestApp.dll
+D:\workplace\ListViewTestApp\ListViewTestApp\ListViewTestApp\obj\Debug\netstandard2.0\ListViewTestApp.pdb
